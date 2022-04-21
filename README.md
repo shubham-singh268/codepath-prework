@@ -45,16 +45,30 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-I have completely used the resources provided to me by the GLITCH project guide.
+I have completely used the resources provided to me by the codepath glitch project guide.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-Since, I am new to the Java scripting, CSS. I have faced challenge in learning concepts and parameters used in the coding and implementation of the game. Although it was easy. Then the conversion of the video to GIF was tricky and new thing for me.
+Since I am new to Java scripting and CSS. I wouldn't say there was any difficulty in learning the new ideas; rather, I loved learning something new, which I always admire.
+I particularly appreciate how the functions and parameters used in script.js to incorporate the game's start/stop and guessing algorithm were implemented. Initially, I anticipated that this would take a significant amount of time.
+But I was able to finish and learn the code in around 5 - 6 hours. The scope of HTML and CSS will be quite broad in the future since there are several applications that require changes, and I believe that will be beneficial in eradicating errors and improving the user interface on the web.
+
+Finally, converting the video to GIF was a tricky and relatively new thing for me, but the tutorial was excellent and I got it in a matter of a few minutes.
+I attempted to export the glitch project to GITHUB, but I made a mistake that cost me 9 hours of my effort. I exported using shortcut (ctrl+shift+E), but before that I had to authorize glitch and then export.
+It took less than a minute to finish the procedure after the authorisation. 
+
+Overall, I loved working on the project, and I am really interested in participating in this internship to improve my web development abilities and become a skilled web developer.
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-I am still in the web development learning phase, And I am very much interested in the learning more concepts and tricks to accomplish projects. 
+I am currently in the learning phase, and I am eager to acquire additional tactics and principles for completing assignments. I'm particularly curious on how the CSS, HTML, and Java script interact in the memory game implementation.
+I realize that they each play a different role in game design, but how do these three frontend web development frameworks collaborate?
+
+I'd also like to learn more about bootstaping, Angular JS, and React JS. I'm also curious about how Artificial Intelligence and Machine Learning can speed up application development and, eventually, how progressive web applications will replace native mobile apps.
+Voice search will expand as a result of IoT.
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I would like to do both: refactor the funcitons and add more features. (give atleast one more chance to use the replay and guess the pattern correctly in the complete game)
+I'd want to rework the functions as well as add extra features. I'd like to make the game more elaborative, in that after the user wins, I'll ask whether user wants to play more rounds by adding more light and music boxes to the game. Then I may expand the number of possible guesses. i.e. If the user selects an incorrect guess, he or she will have two additional chances to predict the pattern and proceed. I want to include numbers in the middle of the box so that if the user is colorblind, he or she can memorize the pattern with the numbers and predict the correct box sequence.
 
 
 
