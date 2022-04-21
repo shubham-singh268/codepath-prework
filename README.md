@@ -45,16 +45,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+I have completely used the resources provided to me by the GLITCH project guide.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+Since, I am new to the Java scripting, CSS. I have faced challenge in learning concepts and parameters used in the coding and implementation of the game. Although it was easy. Then the conversion of the video to GIF was tricky and new thing for me.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I am still in the learning phase, And I am very much interested in the learning more concepts and tricks to accomplish projects. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I would like to do both: refactor the funcitons and add more features. (give atleast one more chance to use the replay and guess the pattern correctly in the complete game)
 
 
 
