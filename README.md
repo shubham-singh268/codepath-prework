@@ -6,7 +6,7 @@ Submitted by: Shubham Singh
 
 Time spent: 5 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/sponge-lavender-petunia?path=script.js%3A138%3A3
+Link to project: https://glitch.com/edit/#!/shubham-268-light-sound-memory-game?path=script.js%3A1%3A0
 
 ## Required Functionality
 
