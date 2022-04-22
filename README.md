@@ -4,7 +4,7 @@
 
 Submitted by: Shubham Singh
 
-Time spent: 6 hours spent in total
+Time spent: 8 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/shubham-268-light-sound-memory-game?path=script.js%3A1%3A0
 
@@ -76,6 +76,7 @@ I'd want to rework the functions as well as add extra features. I'd like to make
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording](your-link-here)
+https://www.loom.com/share/53bb748a0ffc4b62b1a15536ca2e581f
 
 
 ## License
